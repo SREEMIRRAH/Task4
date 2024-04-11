@@ -1,0 +1,10 @@
+#displayBox{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    display: none; 
+  }
+  button{
+    padding: 10px 5px;
+    background-color:green;
+  }
